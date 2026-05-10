@@ -1,0 +1,5 @@
+# Configurações do VS Code
+/.vscode/
+
+# pasta de venv
+/env/
